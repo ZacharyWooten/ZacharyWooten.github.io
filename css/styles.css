@@ -8,6 +8,14 @@ h1, h2, h3, h4, h5, h6, p {
     font-family: 'intro_head_rbase';
 }
 
+p {
+    overflow-wrap: break-word;
+}
+
+a {
+    color: white;
+}
+
 em {
     color: white;
 }
